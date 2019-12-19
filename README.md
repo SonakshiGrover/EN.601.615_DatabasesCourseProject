@@ -51,21 +51,21 @@ Here is the heatmap we get for the crimecounts in Baltimore City -
 
 ## Some key insights we got from the results of our queries( A detailed discussion with all the output pics are in the Discussion section of the project report)
 
-1.An interesting insight was that the districts did not shifted in the crime report rankings for all the three years we observed in our analysis.
+* An interesting insight was that the districts did not shifted in the crime report rankings for all the three years we observed in our analysis.
 
-2.An important insight was that Greater Charles Village/Charles Village, the neighborhood closest to the campus and located south of campus, had the highest numbers in crime reports for the last five years. 
+* An important insight was that Greater Charles Village/Charles Village, the neighborhood closest to the campus and located south of campus, had the highest numbers in crime reports for the last five years. 
 
-3.Greater Charles Village ranks 6th in Baltimore which was a surprising insight considering this neighborhood is partially patrolled by University security. 
+* Greater Charles Village ranks 6th in Baltimore which was a surprising insight considering this neighborhood is partially patrolled by University security. 
 
-4.The most reported crime in Baltimore is Larceny followed by Common assault, Burglary, Larceny from Auto and Aggravated Assault.
+* The most reported crime in Baltimore is Larceny followed by Common assault, Burglary, Larceny from Auto and Aggravated Assault.
 
-5. We found that there is a negative correlation between the percentage of children below the poverty line and the crime counts in a district. Surprisingly, we observed that - as the crime counts increased in a district, the %  of children below the poverty line decreased. 
+* We found that there is a negative correlation between the percentage of children below the poverty line and the crime counts in a district. Surprisingly, we observed that - as the crime counts increased in a district, the %  of children below the poverty line decreased. 
 
-6. The graph suggests that there is no correlation between the number of crimes reported in a neighborhood with the number of vacant buildings in that neighborhood. 
+* The graph suggests that there is no correlation between the number of crimes reported in a neighborhood with the number of vacant buildings in that neighborhood. 
 
-7. The number of religious buildings can explain less that 1% of the variance in number of crimes reported, hence we see an almost flat trend line in the graph. 
+* The number of religious buildings can explain less that 1% of the variance in number of crimes reported, hence we see an almost flat trend line in the graph. 
 
-8. It was too small of a sample set to carry out any analysis and we also arrived to a conclusion that there wasn’t any existing correlation between these two factors.
+* It was too small of a sample set to carry out any analysis and we also arrived to a conclusion that there wasn’t any existing correlation between these two factors.
 
 
 
