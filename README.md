@@ -1,7 +1,7 @@
 # EN.601.615_DatabasesCourseProject
 
 
-This project focuses on the analysis of crime in Baltimore City. We propose to analyze different kinds of databases such as crime records, census demographics, education, religious buildings, libraries, police stations, homeless shelters in the city and gain insights from them. 
+This project focuses on the analysis of crime in Baltimore City. We propose to analyze different kinds of databases such as crime records, census demographics, education, religious buildings, libraries, homeless shelters and vacant buildings in the city and gain insights from them. 
 
 
 ## Getting Started
@@ -47,15 +47,24 @@ You need to install python and mysql server. Install mysql workbench. Anaconda w
 ## Discussion on the questions we explored along with their outputs:
 
 
-Crime_PoliceDistrict.png
-Crimedrop_Dist.png
-Baltimore
-CrimesPerNeighbourhoodNorth.png
-Top10NorthernCrime.png
-Top3Crimes.png
-CPovertyvsCrime.png
-VacantBuildsVsCrime.png
-ReligiuosBuildingsvsCrime.png
+
+SQL_Query_Output/Crime_PoliceDistrict.png
+
+SQL_Query_Output/Crimedrop_Dist.png
+
+SQL_Query_Output/Baltimore
+
+SQL_Query_Output/CrimesPerNeighbourhoodNorth.png
+
+SQL_Query_Output/Top10NorthernCrime.png
+
+SQL_Query_Output/Top3Crimes.png
+
+SQL_Query_Output/CPovertyvsCrime.png
+
+SQL_Query_Output/VacantBuildsVsCrime.png
+
+SQL_Query_Output/ReligiuosBuildingsvsCrime.png
 
 
 
