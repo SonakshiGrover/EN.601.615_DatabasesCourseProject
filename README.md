@@ -41,7 +41,7 @@ You need to install python and mysql server. Install mysql workbench. Anaconda w
    
    Some screenshots for running of the above commands are - 
    
-    ![](https://raw.githubusercontent.com/SonakshiGrover/EN.601.615_DatabasesCourseProject/master/screenshot1.jpg)
+    ![](https://raw.githubusercontent.com/SonakshiGrover/EN.601.615_DatabasesCourseProject/master/screenshot3.jpg)
  
    
  Here is the heatmap we get for the crimecounts in Baltimore City - 
