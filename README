@@ -22,7 +22,7 @@ Steps:
 		On MySQL workbench -  open the file and run it.
 		On terminal - $ mysql -u username password < "createSchema.sql"  
 
-2. Run the import-SQL.sh - This is for populating the database. The import-SQL.sh file will take a few minutes (~30 min) to  	run since its downloading the .csv files from their urls on data.baltimorecity.gov/api/ and then is populating the entire 	 database Some of the relations have more than a million rows, so it will take some time to run. 
+2. Run the import-SQL.sh - This is for populating the database. The import-SQL.sh file will take a few minutes (~30 min) to  	run since its downloading the .csv files from their urls on data.baltimorecity.gov/api/ and then is populating the entire 	 database. Some of the relations have more than a million rows, so it will take some time to run. You can save on time by 	 directly accessing the csv files in /Data folder in the project folder. That already has the csv files saved in it.
 
 
 		chmod +x import-SQL.sh
