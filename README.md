@@ -45,7 +45,7 @@ You need to install python and mysql server. Install mysql workbench. Anaconda w
 
 ## Authors
 
-Sonakshi Grover (sgrover3@jhu.edu) \newline
+Sonakshi Grover (sgrover3@jhu.edu) </br>
 Sai Rajarishi Ulapu (sulapu1@jhu.edu)
 
 ## License
