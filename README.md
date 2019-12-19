@@ -46,12 +46,13 @@ You need to install python and mysql server. Install mysql workbench. Anaconda w
 
 1. List the number of reported crimes for the year 2017, 2018, 2019 for each of the police districts in Baltimore City
 
-In the first section of our analysis, we looked into the prevalence of crime in Police Districts and Neighborhoods within the Baltimore City Limits. First, we looked at the number of crimes reported in each of the 9 Police Districts, for the years 2017,2018 and 2019. Figure -1 shows the results from extracting that data. On the x-axis are the names of the police districts and the number of crimes reported are represented on the y-axis.   
-img
+In the first section of our analysis, we looked into the prevalence of crime in Police Districts and Neighborhoods within the Baltimore City Limits. First, we looked at the number of crimes reported in each of the 9 Police Districts, for the years 2017,2018 and 2019.    
+
+![Figure -1 shows the results from extracting that data. On the x-axis are the names of the police districts and the number of crimes reported are represented on the y-axis.](https://raw.githubusercontent.com/SonakshiGrover/EN.601.615_DatabasesCourseProject/master/SQL_Query_output/Crime_PoliceDistrict.png)
 
 For the year 2019 Figure-2 shows the percentages of crime reported in each of the nine police districts.
-
 img
+
 
 Next, we wanted to identify the police districts performing the best in reducing crime - we analyzed the percentage drop in crime. Figure-3 has the years on the x-axis and the fractions in decimals on the y-axis. All the points are represented as a percentage of crimes reported in 2017.
 
