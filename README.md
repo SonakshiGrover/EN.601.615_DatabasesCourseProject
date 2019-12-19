@@ -39,19 +39,33 @@ You need to install python and mysql server. Install mysql workbench. Anaconda w
    The script produces a .html file in the project folder which can be viewed in any browser. Also, you'll have to replace the gmap API key in the script with your key. 
    
    
-   Some screenshots for running of the above commands are - 
+   A screenshot for one of the above commands are - 
    
-    ![help](screenshot3.png)
+    ![](screenshot3.png)
     
-    
-    
-    
- 
+
+## Discussion on the questions we explored along with their outputs:
+
+
+Crime_PoliceDistrict.png
+Crimedrop_Dist.png
+Baltimore
+CrimesPerNeighbourhoodNorth.png
+Top10NorthernCrime.png
+Top3Crimes.png
+CPovertyvsCrime.png
+VacantBuildsVsCrime.png
+ReligiuosBuildingsvsCrime.png
+
+
+
    
- Here is the heatmap we get for the crimecounts in Baltimore City - 
+Here is the heatmap we get for the crimecounts in Baltimore City - 
 
  ![Heatmap showing the spread of crimes in Baltimore City](https://raw.githubusercontent.com/SonakshiGrover/EN.601.615_DatabasesCourseProject/master/HeatMap_output/heatmap.png)
  
+
+
 
 
 
