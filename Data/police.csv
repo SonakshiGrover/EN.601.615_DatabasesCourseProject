@@ -1,0 +1,21 @@
+﻿name,type,zipCode,neighborhood,councilDistrict,policeDistrict,Location 1
+Headquarters,Headquarters,21202,Downtown,11,CENTRAL,"601 Fayette St
+Baltimore, MD"
+Central,Police Station,21202,Downtown,11,CENTRAL,"500 Baltimore St
+Baltimore, MD"
+Northern,Police Station,21215,Woodberry,6,NORTHERN,"2201 Cold Spring Ln
+Baltimore, MD"
+Northeastern,Police Station,21218,Morgan State University,3,NORTHEASTERN,"1900 Argonne Dr
+Baltimore, MD"
+Northwestern,Police Station,21215,Woodmere,5,NORTHWESTERN,"5271 Reisterstown Rd
+Baltimore, MD"
+Eastern,Police Station,21213,Berea,13,EASTERN,"1620 Edison Hwy
+Baltimore, MD"
+Southern,Police Station,21225,Middle Branch/Reedbird Parks,10,SOUTHERN,"10 Cherry Hill Rd
+Baltimore, MD"
+Southeastern,Police Station,21224,Hopkins Bayview,2,SOUTHEASTERN,"5710 Eastern Av
+Baltimore, MD"
+Southwestern,Police Station,21223,Gwynns Falls,8,SOUTHWESTERN,"424 Font Hill Av
+Baltimore, MD"
+Western,Police Station,21217,Sandtown-Winchester,9,WESTERN,"1034 Mount St
+Baltimore, MD"
