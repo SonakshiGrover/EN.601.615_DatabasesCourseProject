@@ -46,25 +46,28 @@ You need to install python and mysql server. Install mysql workbench. Anaconda w
 
 ## Discussion on the questions we explored along with their outputs:
 
+1. List the number of reported crimes for the year 2017, 2018, 2019 for each of the police districts in Baltimore City.
 
 
-SQL_Query_Output/Crime_PoliceDistrict.png
+![Number of crimes reported per Police District (2017-2019)] SQL_Query_Output/Crime_PoliceDistrict.png
 
-SQL_Query_Output/Crimedrop_Dist.png
+![Percentages of crime reported in each of the nine police districts] SQL_Query_Output/Crimedrop_Dist.png
 
-SQL_Query_Output/Baltimore
+![] SQL_Query_Output/Baltimore
 
-SQL_Query_Output/CrimesPerNeighbourhoodNorth.png
+Figure-3 best shows that aforementioned point by comparing Northeast with Southwest and Western. 
 
-SQL_Query_Output/Top10NorthernCrime.png
+![] SQL_Query_Output/CrimesPerNeighbourhoodNorth.png
 
-SQL_Query_Output/Top3Crimes.png
+![] SQL_Query_Output/Top10NorthernCrime.png
 
-SQL_Query_Output/CPovertyvsCrime.png
+![] SQL_Query_Output/Top3Crimes.png
 
-SQL_Query_Output/VacantBuildsVsCrime.png
+![] SQL_Query_Output/CPovertyvsCrime.png
 
-SQL_Query_Output/ReligiuosBuildingsvsCrime.png
+![] SQL_Query_Output/VacantBuildsVsCrime.png
+
+![] SQL_Query_Output/ReligiuosBuildingsvsCrime.png
 
 
 
